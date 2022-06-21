@@ -11,8 +11,8 @@
 - Implement the remainig UserInterface (ATM , Online etc.)
 - Turn the application into proper server application with rest api (using spring boot)
 
-**To run the unit test**
+**To run the unit test: ** 
 gradlew test
 
-**To assemble the jar**
+**To assemble the jar: **
 gradlew jar
